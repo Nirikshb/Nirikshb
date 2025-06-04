@@ -3,7 +3,7 @@
 
 👩🏻‍💻 Fronted Dev sharing about my journey and learnings in tech
 🌷 #learninginpublic in my digital garden
-💭 Currently learning about Microservices!
+💭 Currently learning!
 
 
 <h1 align="center">Hi 👋, I'm Niriksh Bharti</h1>
